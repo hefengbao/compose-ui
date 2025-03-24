@@ -1,4 +1,4 @@
-package com.hefengbao.compose.ui
+package com.hefengbao.compose_ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.hefengbao.compose.ui.ui.theme.ComposeuiTheme
+import com.hefengbao.compose_ui.ui.theme.ComposeuiTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

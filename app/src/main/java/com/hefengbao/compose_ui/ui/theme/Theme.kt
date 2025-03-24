@@ -1,6 +1,5 @@
-package com.hefengbao.compose.ui.ui.theme
+package com.hefengbao.compose_ui.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

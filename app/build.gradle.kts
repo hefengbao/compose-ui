@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.hefengbao.compose.ui"
+    namespace = "com.hefengbao.compose_ui"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.hefengbao.compose.ui"
+        applicationId = "com.hefengbao.compose_ui"
         minSdk = 29
         targetSdk = 35
         versionCode = 1

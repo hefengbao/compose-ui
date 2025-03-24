@@ -1,4 +1,4 @@
-package com.hefengbao.compose.ui.ui.theme
+package com.hefengbao.compose_ui.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
